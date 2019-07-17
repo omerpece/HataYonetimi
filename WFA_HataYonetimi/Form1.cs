@@ -16,5 +16,10 @@ namespace WFA_HataYonetimi
         {
             InitializeComponent();
         }
+
+        private void BtnOrnek1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
